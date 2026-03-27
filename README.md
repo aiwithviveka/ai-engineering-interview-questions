@@ -1,6 +1,3 @@
-<p align="center">
-    <img alt="AI Engineering Interview Questions and Answers"</p>
-
 # AI Engineering Interview Questions and Answers
 
 > AI Engineering Interview Questions and Answers - Your Cheat Sheet For AI Engineering Interviews
